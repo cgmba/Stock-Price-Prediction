@@ -1,6 +1,3 @@
-# Stock-Price-Prediction
-
-
 <h1> Stock Price Prediction with ANN & LSTMs </h1>
 
 The aim of this project is to predict movement in stock price given previous history of the movement. Artificial Neural Networks and LSTMs(Long Short Term Memory) were implemented  and trained on Stock and Implied Volatility Data OOS 5.0 dataset with data samples dating from 2007 up to 2023.
